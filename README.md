@@ -1,12 +1,12 @@
-<img src="https://github.com/Sanhith30/Sanhith30/blob/main/WhatsApp%20Image%202024-11-16%20at%2019.57.30_41a6b8c8.jpg">
+<img src="">
 
 # I'm Thikkavarapu Sanhith
 > 💻 Data Analyst | 🧠 ML Enthusiast | 🚀 AI for Impact Advocate
 > 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkdein-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/nandakishore-p-44a743151/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@nandakishorep)
-[![Instagram Badge](https://img.shields.io/badge/-@nanda.kshr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/nanda.kshr)
-[![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nandakishorep212@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkdein-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/sanhith30)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@sanhith30)
+[![Instagram Badge](https://img.shields.io/badge/-@nanda.kshr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/sanhithreddy_x.x_)
+[![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:sanhithreddy5131@gmail.com)
 
 ## 🚀 Innovation Through Technology
 
