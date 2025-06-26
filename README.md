@@ -1,4 +1,4 @@
-<img src="">
+<img src="https://github.com/Sanhith30/Sanhith30/blob/main/WhatsApp%20Image%202024-11-16%20at%2019.57.30_41a6b8c8.jpg">
 
 # I'm Thikkavarapu Sanhith
 > 💻 Data Analyst | 🧠 ML Enthusiast | 🚀 AI for Impact Advocate
