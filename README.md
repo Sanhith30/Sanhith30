@@ -5,8 +5,8 @@
 > 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkdein-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/sanhith30)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@sanhith30)
-[![Instagram Badge](https://img.shields.io/badge/-@nanda.kshr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/sanhithreddy_x.x_)
-[![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:sanhithreddy5131@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@sanhith-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/sanhithreddy_x.x_)
+[![Gmail Badge](https://img.shields.io/badge/-sanhith31-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:sanhithreddy5131@gmail.com)
 
 ## 🚀 Innovation Through Technology
 
