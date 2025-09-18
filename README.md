@@ -92,7 +92,7 @@ As a data analytics enthusiast from India, I specialize in transforming raw data
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats-jlfc-8j8m5kfn7-sanhiths-projects-adc63fb4.vercel.app/api/pin/?username=sanhith30&repo=Sanhith30" alt="GitHub Pin" />
+  <img src="https://github-readme-stats-jlfc-8j8m5kfn7-sanhiths-projects-adc63fb4.vercel.app/api/pin/?username=sanhith30&repo=github-readme-stats" alt="GitHub Pin" />
 </p>
 
 ## 🏆 GitHub Achievements
