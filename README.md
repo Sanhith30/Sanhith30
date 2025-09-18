@@ -1,24 +1,20 @@
-<img src="https://github.com/Sanhith30/Sanhith30/blob/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2011_01_40%20PM.png">
+<img src="https://github.com/Sanhith30/Sanhith30/blob/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2011_01_40%20PM.png" alt="Profile Image" />
 
 # I'm Thikkavarapu Sanhith
 > 💻 Data Analyst | 🧠 ML Enthusiast | 🚀 AI for Impact Advocate
 > 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkdein-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/sanhith30)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@sanhith30)
-[![Instagram Badge](https://img.shields.io/badge/-@sanhith-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/sanhithreddy_x.x_)
-[![Gmail Badge](https://img.shields.io/badge/-sanhith31-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:sanhithreddy5131@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanhith30)](https://www.linkedin.com/in/sanhith30)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sanhith30)](https://medium.com/@sanhith30)
+[![Instagram Badge](https://img.shields.io/badge/-@sanhith-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sanhithreddy_x.x_)](https://instagram.com/sanhithreddy_x.x_)
+[![Gmail Badge](https://img.shields.io/badge/-sanhith31-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sanhithreddy5131@gmail.com)](mailto:sanhithreddy5131@gmail.com)
 
 ## 🚀 Innovation Through Technology
-
 As a data analytics enthusiast from India, I specialize in transforming raw data into impactful business insights. With experience in machine learning, statistical analysis, and dashboard creation, I aim to make data not just readable—but powerful. Whether through predictive models or clean visualizations, I bring clarity to complexity.
 
-
 ---
-
 **<b>📌 Daily Fact:</b>** June 26th is the day in 1857 that the first investiture of the Victoria Cross in Hyde Park, London.
 
 ---
-
 ## 💡 Expertise
 
 <table>
@@ -45,7 +41,6 @@ As a data analytics enthusiast from India, I specialize in transforming raw data
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ### Data Management
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,7 +50,6 @@ As a data analytics enthusiast from India, I specialize in transforming raw data
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -70,7 +64,6 @@ As a data analytics enthusiast from India, I specialize in transforming raw data
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![OpenAI](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
 
 ### Operating Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -87,39 +80,38 @@ As a data analytics enthusiast from India, I specialize in transforming raw data
 
 ## 📈 Performance Metrics
 
-
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sanhith30&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Statistics"/>
+      <img src="https://github-readme-stats-jlfc-8j8m5kfn7-sanhiths-projects-adc63fb4.vercel.app/api?username=sanhith30&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Statistics" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanhith30&layout=compact&langs_count=10&theme=radical&hide_border=true&card_width=450" width="100%" alt="Most Used Languages"/>
+      <img src="https://github-readme-stats-jlfc-8j8m5kfn7-sanhiths-projects-adc63fb4.vercel.app/api/top-langs?username=sanhith30&layout=compact&langs_count=10&theme=radical&hide_border=true&card_width=450" width="100%" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-ag4yqe3da-beastuserbots-projects.vercel.app/?user=sanhith30&theme=radical&hide_border=true&card_width=450" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-jlfc-8j8m5kfn7-sanhiths-projects-adc63fb4.vercel.app/api/pin/?username=sanhith30&repo=Sanhith30" alt="GitHub Pin" />
 </p>
 
 ## 🏆 GitHub Achievements
+
 <img src="https://github-profile-trophy.vercel.app/?username=sanhith30&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="100%" />
 
 ## 📊 GitHub Metrics
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanhith30&theme=dracula)
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanhith30&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhith30&layout=compact&theme=dracula" />
+<br>
+<b>Note:</b> Top languages don't indicate my skill level, it's a GitHub metric showing languages I have the most code in on GitHub.
 
-
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanhith30&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhith30&layout=compact&theme=dracula" />
-  <br>
-  <b>Note:</b> Top languages don't indicate my skill level, it's a GitHub metric showing languages I have the most code in on GitHub.
-</details>
+---
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/sanhith30"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
