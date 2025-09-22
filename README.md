@@ -80,19 +80,13 @@ As a data analytics enthusiast from India, I specialize in transforming raw data
 
 ## 📈 Performance Metrics
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-jlfc-8j8m5kfn7-sanhiths-projects-adc63fb4.vercel.app/api?username=sanhith30&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Statistics" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-jlfc-8j8m5kfn7-sanhiths-projects-adc63fb4.vercel.app/api/top-langs?username=sanhith30&layout=compact&langs_count=10&theme=radical&hide_border=true&card_width=450" width="100%" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+<p>
+    <img class="center" alt="GitHub Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=sanhith30.sanhith30"/>
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-jlfc-8j8m5kfn7-sanhiths-projects-adc63fb4.vercel.app/api/pin/?username=sanhith30&repo=github-readme-stats" alt="GitHub Pin" />
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=sanhith30&count_private=true&show_icons=true&count_private=true&theme=radical" alt="GitHub Streak Stats"/>
+    <br>
 </p>
 
 ## 🏆 GitHub Achievements
