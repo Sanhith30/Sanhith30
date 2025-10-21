@@ -1,6 +1,6 @@
 <img src="https://github.com/Sanhith30/Sanhith30/blob/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2011_01_40%20PM.png" alt="Profile Image" />
 
-# I'm Thikkavarapu Sanhith Reddy 
+# I'm Thikkavarapu Sanhith
 > 💻 Data Analyst | 🧠 ML Enthusiast | 🚀 AI for Impact Advocate
 > 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanhith30)](https://www.linkedin.com/in/sanhith30)
