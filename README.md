@@ -93,19 +93,17 @@ As a data analytics enthusiast from India, I specialize in transforming raw data
 
 <img src="https://github-profile-trophy.vercel.app/?username=sanhith30&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="100%" />
 
-## 📊 GitHub Metrics
+## 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanhith30&theme=dracula)
+<br/>
+  <h2 align="center">⚡ Current Statistics ⚡</h2>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanhith30&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhith30&layout=compact&theme=dracula" />
-<br>
-<b>Note:</b> Top languages don't indicate my skill level, it's a GitHub metric showing languages I have the most code in on GitHub.
-
----
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/sanhith30"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=sanhith30&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sanhith30&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhith30&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <br/>
+
+<br/><br/>
