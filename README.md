@@ -1,5 +1,3 @@
-<img src="https://github.com/Sanhith30/Sanhith30/blob/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2011_01_40%20PM.png" alt="Profile Image" />
-
 # I'm Thikkavarapu Sanhith
 > 💻 Data Analyst | 🧠 ML Enthusiast | 🚀 AI for Impact Advocate
 > 
