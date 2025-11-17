@@ -2,7 +2,7 @@
 > 💻 Data Analyst | 🧠 ML Enthusiast | 🚀 AI for Impact Advocate
 > 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanhith30)](https://www.linkedin.com/in/sanhith30)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sanhith30)](https://medium.com/@sanhith30)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sanhithreddy5131)](https://medium.com/@sanhith30)
 [![Instagram Badge](https://img.shields.io/badge/-@sanhith-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sanhithreddy_x.x_)](https://instagram.com/sanhithreddy_x.x_)
 [![Gmail Badge](https://img.shields.io/badge/-sanhith31-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sanhithreddy5131@gmail.com)](mailto:sanhithreddy5131@gmail.com)
 
