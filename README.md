@@ -35,44 +35,43 @@ As a data analytics enthusiast from India, I specialize in transforming raw data
 ---
 ## 🔧 Technical Proficiency
 
-### Web & API Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web & API Development
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### Data Management
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🗄️ Data Management
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MariaDB](https://img.shields.io/badge/MariaDB-0A0A0A?style=for-the-badge&logo=mariadb&logoColor=003545)
+![SQLite](https://img.shields.io/badge/SQLite-0A0A0A?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Oracle](https://img.shields.io/badge/Oracle-0A0A0A?style=for-the-badge&logo=oracle&logoColor=F80000)
+![Apache](https://img.shields.io/badge/Apache-0A0A0A?style=for-the-badge&logo=apache&logoColor=D42029)
+![Nginx](https://img.shields.io/badge/Nginx-0A0A0A?style=for-the-badge&logo=nginx&logoColor=009639)
 
-### AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![OpenAI](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+### 🤖 AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Keras](https://img.shields.io/badge/Keras-0A0A0A?style=for-the-badge&logo=keras&logoColor=D00000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=150458)
+![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0A0A0A?style=for-the-badge&logo=scipy&logoColor=0C55A5)
+![ChatGPT](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=74aa9c)
 
-### Operating Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🖥️ Operating Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![macOS](https://img.shields.io/badge/macOS-0A0A0A?style=for-the-badge&logo=apple&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Android](https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05033)
 
-### Hardware & IoT
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+### 🔌 Hardware & IoT
+![Arduino](https://img.shields.io/badge/Arduino-0A0A0A?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Cisco](https://img.shields.io/badge/Cisco-0A0A0A?style=for-the-badge&logo=cisco&logoColor=049FD9)
 
 ---
 
