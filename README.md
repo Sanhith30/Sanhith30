@@ -1,4 +1,4 @@
-# I'm Thikkavarapu Sanhith
+# I'm Thikkavarapu Sanhith <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 > 💻 Data Analyst | 🧠 ML Enthusiast | 🚀 AI for Impact Advocate
 > 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanhith30)](https://www.linkedin.com/in/sanhith30)
