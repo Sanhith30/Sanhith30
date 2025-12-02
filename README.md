@@ -75,7 +75,7 @@ As a data analytics enthusiast from India, I specialize in transforming raw data
 
 ---
 
-## 📈 Performance Metrics
+##  Performance Metrics
 
 <p>
     <img class="center" alt="GitHub Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=sanhith30.sanhith30"/>
