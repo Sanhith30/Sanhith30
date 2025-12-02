@@ -111,5 +111,11 @@ As a data analytics enthusiast from India, I specialize in transforming raw data
 </div>
 
   <br/>
+</details>
 
+<div align="center">
+  <a href="https://www.buymeacoffee.com/sanhith30"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/><br/>
