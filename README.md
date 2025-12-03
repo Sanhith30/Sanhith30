@@ -9,10 +9,6 @@
 ## 🚀 Innovation Through Technology
 As a data analytics enthusiast from India, I specialize in transforming raw data into impactful business insights. With experience in machine learning, statistical analysis, and dashboard creation, I aim to make data not just readable—but powerful. Whether through predictive models or clean visualizations, I bring clarity to complexity.
 
----
-**<b>📌 Daily Fact:</b>** June 26th is the day in 1857 that the first investiture of the Victoria Cross in Hyde Park, London.
-
----
 ## 💡 Expertise
 
 <table>
