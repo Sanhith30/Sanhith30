@@ -1,5 +1,5 @@
 # I'm Thikkavarapu Sanhith <img src="wave.gif" width="30">
-> 💻 Data Analyst | 🧠 ML Enthusiast | 🚀 AI for Impact Advocate
+> Data Analyst |  ML Enthusiast |  AI for Impact Advocate
 > 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanhith30)](https://www.linkedin.com/in/sanhith30)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sanhithreddy5131)](https://medium.com/@sanhithreddy5131)
