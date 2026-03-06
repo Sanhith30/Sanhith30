@@ -1,121 +1,151 @@
-# I'm Thikkavarapu Sanhith <img src="wave.gif" width="30">
-> Data Analyst |  ML Enthusiast |  AI for Impact Advocate 
-> 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanhith30)](https://www.linkedin.com/in/sanhith30)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sanhithreddy5131)](https://medium.com/@sanhithreddy5131)
-[![Instagram Badge](https://img.shields.io/badge/-@sanhith-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sanhithreddy_x.x_)](https://instagram.com/sanhithreddy_x.x_)
-[![Gmail Badge](https://img.shields.io/badge/-sanhith31-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sanhithreddy5131@gmail.com)](mailto:sanhithreddy5131@gmail.com)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=250&section=header&text=Thikkavarapu%20Sanhith&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Solutions%20Architect&descAlignY=55&descSize=20" width="100%" />
 
-## 🚀 Innovation Through Technology
-As a data analytics enthusiast from India, I specialize in transforming raw data into impactful business insights. With experience in machine learning, statistical analysis, and dashboard creation, I aim to make data not just readable—but powerful. Whether through predictive models or clean visualizations, I bring clarity to complexity.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=BS+in+Computer+Science+@+Saveetha+School+of+Engineering;Building+End-to-End+NLP+%26+Transformer+Pipelines;Architecting+Scalable+Machine+Learning+Systems;Transforming+Big+Data+into+Actionable+Business+Intelligence" alt="Typing SVG" />
+  </a>
+</div>
 
-## 💡 Expertise
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sanhith30"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@sanhithreddy5131"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium"></a>
+  <a href="https://instagram.com/sanhithreddy_x.x_"><img src="https://img.shields.io/badge/-@sanhith-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://sanhithme.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=00F7F7&border=00F7F7" alt="Portfolio"></a>
+  <a href="mailto:sanhithreddy5131@gmail.com"><img src="https://img.shields.io/badge/-sanhith31-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="70%">
+        <h3> Professional Summary</h3>
+        <p>I am an Undergraduate in Data Science with extensive practical experience in machine learning, data analytics, cloud computing, and full-stack AI systems. My expertise lies in implementing end-to-end data pipelines, predictive models, and cloud solutions. I specialize in working with large datasets, performing statistical analysis, and building production-ready NLP and machine learning systems.</p>
+        <p><b> Education:</b> BS in Computer Science | Saveetha School Of Engineering</p>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="100%" style="border-radius: 10px; border: 1px solid #00F7F7;"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## Professional Experience
+
+> **Data Scientist Intern | NUNC SYSTEMS** *(Aug 2025 – Dec 2025)* <br>
+> Hyderabad, Telangana
+* Designed an NLP model to detect duplicate question pairs using feature engineering, traditional ML models, LSTM, and fine-tuned BERT (achieving ~90% accuracy).
+* Developed an abstractive text summarization system utilizing advanced transformer architectures like BART, T5, and PEGASUS for long-form texts.
+* Involved in end-to-end NLP and deep learning projects utilizing machine learning pipelines.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## Advanced Tech Stack
+
+<div align="center">
+  <p><b>Machine Learning & AI</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,sklearn,opencv&perline=10" />
+  </a>
+  <br>
+  <p><b>Data & Cloud Engineering</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,mysql,mongodb,postgres&perline=10" />
+  </a>
+  <br>
+  <p><b>Full-Stack AI Development</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,git,github,linux&perline=10" />
+  </a>
+</div>
+
+<br>
+
+<details>
+  <summary><b> View Industry Certifications (Click to Expand)</b></summary>
+  <br>
+  <ul>
+    <li><b>Google Cloud:</b> Data Analytics Certificate</li>
+    <li><b>Oracle:</b> Certified Data Science Professional & Database SQL Certified Specialist</li>
+    <li><b>Salesforce:</b> Certified Agentforce Specialist</li>
+    <li><b>Infosys:</b> Data Analysis with Python Certificate</li>
+  </ul>
+</details>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+##  Featured AI Architecture
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h3>Software Engineering</h3>
-      <p>Building robust applications with modern frameworks and clean architecture principles</p>
+    <td width="50%" valign="top">
+      <h3>1️ Intelligent Summarization Platform</h3>
+      <p>An end-to-end AI app generating summaries from text, PDFs, and YouTube videos serving 500+ users.</p>
+      <b>Tech:</b> <code>PyTorch</code> <code>Transformers (BART, T5)</code> <code>FastAPI</code> <code>React</code> <code>Redis</code>
     </td>
-    <td width="33%" align="center">
-      <h3>AI & Machine Learning</h3>
-      <p>Implementing data-driven solutions using TensorFlow, PyTorch, and scikit-learn</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Data Analytics</h3>
-      <p>Python | Excel | SQL | BI Tools, DigitalOcean, and more</p>
+    <td width="50%" valign="top">
+      <h3>2️ RideSense AI Dashboard</h3>
+      <p>Data analytics dashboard to analyze ride-sharing demand patterns, trip performance, and revenue trends.</p>
+      <b>Tech:</b> <code>Python</code> <code>Pandas</code> <code>EDA</code> <code>Business Analytics</code>
     </td>
   </tr>
 </table>
 
----
-## 🔧 Technical Proficiency
+<br>
 
-### 🌐 Web & API Development
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### 🗄️ Data Management
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MariaDB](https://img.shields.io/badge/MariaDB-0A0A0A?style=for-the-badge&logo=mariadb&logoColor=003545)
-![SQLite](https://img.shields.io/badge/SQLite-0A0A0A?style=for-the-badge&logo=sqlite&logoColor=07405E)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Oracle](https://img.shields.io/badge/Oracle-0A0A0A?style=for-the-badge&logo=oracle&logoColor=F80000)
-![Apache](https://img.shields.io/badge/Apache-0A0A0A?style=for-the-badge&logo=apache&logoColor=D42029)
-![Nginx](https://img.shields.io/badge/Nginx-0A0A0A?style=for-the-badge&logo=nginx&logoColor=009639)
-
-### 🤖 AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Keras](https://img.shields.io/badge/Keras-0A0A0A?style=for-the-badge&logo=keras&logoColor=D00000)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=150458)
-![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0A0A0A?style=for-the-badge&logo=scipy&logoColor=0C55A5)
-![ChatGPT](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=74aa9c)
-
-### 🖥️ Operating Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624)
-![macOS](https://img.shields.io/badge/macOS-0A0A0A?style=for-the-badge&logo=apple&logoColor=ffffff)
-![Windows](https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=0078D6)
-![Android](https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge&logo=android&logoColor=3DDC84)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05033)
-
-### 🔌 Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-0A0A0A?style=for-the-badge&logo=arduino&logoColor=00979D)
-![Cisco](https://img.shields.io/badge/Cisco-0A0A0A?style=for-the-badge&logo=cisco&logoColor=049FD9)
-
----
-
-##  Performance Metrics
-
-<p>
-    <img class="center" alt="GitHub Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=sanhith30.sanhith30"/>
-</p>
-
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=sanhith30&count_private=true&show_icons=true&count_private=true&theme=radical" alt="GitHub Streak Stats"/>
-    <br>
-</p>
-
-<div align="center"> 
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  <a href="https://leetcode.com/sanhith30/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/sanhith30/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/sanhith30/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/sanhith30/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
-  
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanhith30&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="100%" />
-
-## 
-
-<h2 align="center">📊 GitHub Statistics</h2>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanhith30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sanhith30&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Analytics,+Performance+%26+Problem+Solving;Tracking+Code+Commits+%26+Contributions;Data-Driven+Developer+Metrics" alt="Typing SVG" />
+  </a>
+</div>
+
+
+<br>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanhith30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sanhith30&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=7B42F6&fire=FF6B6B&currStreakLabel=00F7F7" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhith30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanhith30&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanhith30&custom_title=Annual%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=0D1117" />
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B42F6&center=true&vCenter=true&width=400&lines=🏆+LeetCode+Consistency" alt="Typing SVG" />
+  <br>
+  <a href="https://leetcode.com/sanhith30/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="120" /></a>
+  <a href="https://leetcode.com/sanhith30/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="120" /></a>
+  <a href="https://leetcode.com/sanhith30/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="120" /></a>
+  <a href="https://leetcode.com/sanhith30/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="120" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=400&lines=🐍+Contribution+Snake" alt="Typing SVG" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanhith30/sanhith30/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanhith30/sanhith30/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sanhith30/sanhith30/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sanhith30/sanhith30/output/github-snake.svg" width="100%" />
   </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Programming Quote" />
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanhith30.sanhith30&left_color=0D1117&right_color=7B42F6&left_text=Profile%20Views" alt="Visitors"/>
 </div>
